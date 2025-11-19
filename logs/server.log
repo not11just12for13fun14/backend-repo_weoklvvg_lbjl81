@@ -1,19 +1,15 @@
 INFO:     Will watch for changes in these directories: ['/home/workspace']
 INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
-INFO:     Started reloader process [201] using StatReload
-INFO:     Started server process [203]
+INFO:     Started reloader process [251] using StatReload
+INFO:     Started server process [253]
 INFO:     Waiting for application startup.
 INFO:     Application startup complete.
-INFO:     172.20.0.1:46100 - "HEAD / HTTP/1.1" 405 Method Not Allowed
-INFO:     172.20.0.1:46106 - "GET /api/gifts HTTP/1.1" 200 OK
-INFO:     172.20.0.1:46126 - "GET /api/testimonials HTTP/1.1" 200 OK
-INFO:     172.20.0.1:46106 - "GET /api/gifts HTTP/1.1" 200 OK
-INFO:     172.20.0.1:46126 - "GET /api/testimonials HTTP/1.1" 200 OK
-INFO:     172.20.0.1:46110 - "GET /api/testimonials HTTP/1.1" 200 OK
-INFO:     172.20.0.1:46114 - "GET /api/gifts HTTP/1.1" 200 OK
-INFO:     172.20.0.1:46106 - "GET /api/testimonials HTTP/1.1" 200 OK
-INFO:     172.20.0.1:46114 - "GET /api/gifts HTTP/1.1" 200 OK
-INFO:     172.20.0.1:45840 - "GET /api/gifts HTTP/1.1" 200 OK
-INFO:     172.20.0.1:45848 - "GET /api/testimonials HTTP/1.1" 200 OK
-INFO:     172.20.0.1:45840 - "GET /api/gifts HTTP/1.1" 200 OK
-INFO:     172.20.0.1:45848 - "GET /api/testimonials HTTP/1.1" 200 OK
+INFO:     172.20.0.1:38956 - "HEAD / HTTP/1.1" 405 Method Not Allowed
+INFO:     172.20.0.1:38972 - "GET /api/gifts HTTP/1.1" 200 OK
+INFO:     172.20.0.1:38972 - "GET /api/gifts HTTP/1.1" 200 OK
+INFO:     172.20.0.1:38976 - "GET /api/testimonials HTTP/1.1" 200 OK
+INFO:     172.20.0.1:38976 - "GET /api/testimonials HTTP/1.1" 200 OK
+INFO:     172.20.0.1:38986 - "GET /api/gifts HTTP/1.1" 200 OK
+INFO:     172.20.0.1:38986 - "GET /api/testimonials HTTP/1.1" 200 OK
+INFO:     172.20.0.1:33644 - "GET /api/gifts HTTP/1.1" 200 OK
+INFO:     172.20.0.1:38986 - "GET /api/testimonials HTTP/1.1" 200 OK
